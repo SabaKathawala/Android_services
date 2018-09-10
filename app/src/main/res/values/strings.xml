@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BalanceServiceApplication</string>
+    <string name="purpose">This app defines a bound service called BalanceService that manages the database as well as database queries.</string>
+</resources>
